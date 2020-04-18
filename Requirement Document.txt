@@ -1,0 +1,59 @@
+Requirement For Project:   
+	
+	    There are 7 pages we use to make this Application .
+	      � Main page
+	      � Sign Up page
+	      � Sign in page
+	      � Home Page
+	      � Page For Job Poster
+	      � Page For Job Seeker
+	      � Resume page
+	
+
+	Main page : 
+	          For main page we just use 2 links one for sigin in and one for sign up page and add an search option which go to google.com. 
+	
+
+	Sign Up Page :
+		For this Application the Sign Up or Page is very important in which we get some detail via text boxes selector and and submit to it any server.
+	
+
+	Sign In Page :
+		For this Application the Sign In Page is very important in which we get some detail via text boxes selector and and submit to it any server.
+	
+
+	Home Page
+		 In home page we have some introduction about our application and Links of pages i.e. one for job seeker page and one for job poster if user click job seeker link it is directed to job seeker pages and same for job poster, but for directing sign up and and login is compulsory.
+	
+
+	Page For Job Poster:
+			In Job Poster page We use text boxes Where poster write company name and any other field  , text area for detail explanation what are the requirements of the job what kind of qualification the company want.
+	    � Gender
+	    � City
+	    � Name Of Company
+	    � Qualification Required
+	    � Email
+	    � Contact Number
+	    � Certification
+	    � Company Address
+	    � Job details and more
+	
+
+	Page For Job Seeker:
+				In Job Poster Seeker We use a link to go for resume making and put some pictures also.
+	
+
+	Resume Page: 
+	             In resume page we use a build resume feild set where we add options like.
+	    � first name
+	    � last name
+	    � phone 
+	    � email
+	    � city
+	    � profile
+	    � key skills
+	    � Achievement
+	    � Qualification
+	    � Image option
+	    � Final submit button
+

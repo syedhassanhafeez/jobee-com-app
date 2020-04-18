@@ -1,0 +1,181 @@
+#header{
+    text-rendering: auto ;
+    text-align: center;
+    padding-top: 2px;
+}
+.fullname{
+    padding-left: 9%;
+}
+.line{
+    padding-left: 5%;
+}
+.bag{
+    padding-left: 35%;
+    
+}
+.fieldset{
+    margin-left: 25%;
+    margin-right: 10%;
+}
+.currentaddress{
+    padding-left: 3.7% ;
+}
+.currentaddress1{
+    padding-left: 18%;
+}
+.city{
+    padding-left: 18%;
+    color: #b4b4b4;
+}
+.name{
+    padding-left: 18%;
+    color:#b4b4b4;
+}
+.name1{
+    padding-left: 86px;
+    color:#b4b4b4;
+}
+.name2{
+    padding-left: 69px;
+    color:#b4b4b4;
+}
+.address{
+    padding-left: 18%;
+    color:#b4b4b4;
+}
+.state{
+    padding-left: 14.5%;
+    color:#b4b4b4;
+}
+.country{
+    padding-left: 7%;
+    color:#b4b4b4;
+}
+.email{
+    padding-left: 6%;
+    
+}
+.email1{
+    padding-left: 18%;
+    color:#b4b4b4;
+}
+.phonenumber{
+    padding-left: 5.2%;
+}
+.phonenumber1{
+    padding-left:18%;
+    color:#b4b4b4;
+}
+.phonenumber2{
+    padding-left: 12.6%;
+    color:#b4b4b4;
+}
+.position{
+    padding-left: 1%;
+}
+.date{
+    padding-left: 14%;
+}
+.resume{
+    padding-left: 5%;
+}
+.setting{
+    margin-left: -4%;
+    
+    padding-left: 30%;
+    width: 150px;
+}
+.employer{
+    padding-right: 30%;
+    margin-left: 30%;
+}
+.post{
+    padding-left: 70px;
+    
+    
+    
+}
+.time1{
+    padding-left: 18%;
+}
+.time2{
+    padding-left: 30.5%;
+}
+.cname1{
+    padding-left: 10%;
+}
+.cname2{
+    padding-left: 7.4%;
+}
+.cname3{
+    padding-left: 10%;
+}
+.cname4{
+    padding-left: 12%;
+}
+.location{
+    padding-left: 19.5%;
+}
+.addr{
+    padding-left: 20.5%;
+}
+.pos{
+    padding-left: 6.5%;
+}
+.thankyou{
+    padding-left: 40%;
+    padding-top: 3%;
+    opacity: 0.9;
+    
+}
+h1{
+    margin-top: 2%;
+    padding-left: 2%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#27AE60  ;
+    
+
+}
+.done{
+    color:#8000ff ;
+    padding-left: 35%;
+    font-size: 22px;
+}
+.back{
+    padding-left: 43%;
+    color: #8000ff;
+    padding-top: -1%;
+
+
+}
+.inp1{
+    padding-left: 5%;
+
+}
+.inp2{
+    padding-left: 5.3%;
+}
+.inp3{
+    padding-left: 1%;
+}
+.inp4{
+    padding-left: 10.4%;
+}
+.inp5{
+    padding-left: 12%;
+}
+.inp6{
+    padding-left: 7.4%;
+}
+.inp7{
+    padding-left: 8.6%;
+}
+.inp8{
+    padding-left: 10%;
+}
+.inp9{
+    padding-left: 3%;
+}
+#button{
+    padding-left: 30%;
+}
